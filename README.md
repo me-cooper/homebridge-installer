@@ -1,10 +1,10 @@
 # homebridge-installer
-Dieser schlanke Installer installiert [https://homebridge.io/](Homebridge) auf einem Raspberry Pi. 
+Dieser schlanke Installer installiert [Homebridge](https://homebridge.io/) auf einem Raspberry Pi. 
 **Es wird die Standardinstallation ausgeführt, nur automatisiert.**
 
 Es **muss** ein Raspian Betriebssystem auf dem Pi laufen, ein Ubuntu habe ich noch nicht getestet.
 
-[https://makesmart.net/makesmart-server-installieren/](Anleitung zum Installieren eines passenden Betriebssystems) 
+[Anleitung zum Installieren eines passenden Betriebssystems](https://makesmart.net/makesmart-server-installieren/)
 
 Um Homebridge zu installieren setze nacheinander folgende Befehle in der Konsole ab:
 
